@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalValueSet xmlns="http://soap.sforce.com/2006/04/metadata">
+    <customValue>
+        <fullName>returnOrderStatus</fullName>
+        <default>false</default>
+        <label>returnOrderStatus</label>
+    </customValue>
+    <customValue>
+        <fullName>EVMreturnOrderStatus</fullName>
+        <default>false</default>
+        <label>EVMreturnOrderStatus</label>
+    </customValue>
+    <masterLabel>EVM_valueset</masterLabel>
+    <sorted>false</sorted>
+</GlobalValueSet>

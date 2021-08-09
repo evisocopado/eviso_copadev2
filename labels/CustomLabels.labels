@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomLabels xmlns="http://soap.sforce.com/2006/04/metadata">
+    <labels>
+        <fullName>label1</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>label1</shortDescription>
+        <value>First label</value>
+    </labels>
+    <labels>
+        <fullName>label2</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>label2</shortDescription>
+        <value>Second label</value>
+    </labels>
+    <labels>
+        <fullName>label3</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>label3</shortDescription>
+        <value>label3</value>
+    </labels>
+    <labels>
+        <fullName>trad4</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>trad4</shortDescription>
+        <value>Another custom label</value>
+    </labels>
+    <labels>
+        <fullName>trans</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>trad_objeto</shortDescription>
+        <value>trans_object</value>
+    </labels>
+    <labels>
+        <fullName>trans2</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>trans2</shortDescription>
+        <value>trad_objeto</value>
+    </labels>
+    <labels>
+        <fullName>trans3</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>trans3</shortDescription>
+        <value>This is a custom label</value>
+    </labels>
+</CustomLabels>
